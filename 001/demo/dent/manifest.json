@@ -1,0 +1,19 @@
+{
+  "name": "NFT Hotsite Start[001] Demo[dent]", "short_name": "NFT Start[001]",
+  "description": "NFT Hotsite / Application, Theme: Start[001], PWA. This is our first fully responsive startup HTML pages, built on web3 with Ethereum, PHP, Bootstrap 4+ Framework and css3.",
+  "theme_color": "#25007D", "background_color": "#25007D",
+  "start_url": "./?or=pwa", "display": "standalone",
+  "orientation": "any", "lang": "en-US",
+  "icons": [
+    {
+      "src": "../../../media/upload/icons/dent/icon_x384.png",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/png", "purpose": "any"
+    },
+    {
+      "src": "../../../media/upload/icons/dent/maskable_icon_x384.jpg",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/jpg", "purpose": "maskable"
+    }
+  ]
+}
