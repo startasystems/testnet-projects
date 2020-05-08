@@ -12,11 +12,11 @@
 *  ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║
 *  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝
 ===================================================================
-* Start[001] Website PRO | v1.0.0 | 2020-04-26
+* Start[001] Website PRO | v1.0.0 | 2020-05-06T18:06:10.305Z
 =================================================================
 * Product Page: https://startasystems.github.io/start-website-pro/
 * Copyright 2020 | Starta Systems (https://startasystems.github.io/)
-* Coded by @starta.architect
+* Originally coded by @starta.architect
 =================================================================
 * The above copyright notice and this permission notice shall be
 * included in all copies or substantial portions of the Software.
