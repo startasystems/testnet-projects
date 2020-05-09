@@ -1,5 +1,5 @@
 {
-  "name": "NFT Hotsite Start[001] Theme[05]", "short_name": "NFT Start[001]",
+  "name": "NFT Hotsite Start[001] Theme[05]", "short_name": "NFT Start[001] Theme[05]",
   "description": "NFT Hotsite / Application, Theme: Start[001], PWA. This is our first fully responsive startup HTML pages, built on web3 with Ethereum, PHP, Bootstrap 4+ Framework and css3.",
   "theme_color": "#003E5B", "background_color": "#003E5B",
   "start_url": "./?or=pwa", "display": "standalone",
