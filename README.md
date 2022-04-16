@@ -1,6 +1,6 @@
 # Starta Systems | NFT Hotsite & Application
 
-> NFT Hotsite & Application, Start[001], Version: 1.0.1 | PWA. This is our first fully responsive startup HTML pages, built on web3 with Ethereum, Javascript, Bootstrap 4+ Framework and css3.
+> NFT Hotsite & Application, Start[001], Version: 1.0.1, PWA | This is our first fully responsive startup HTML pages, built on web3 with Ethereum, Javascript, Bootstrap 4+ Framework and css3.
 
 This project aims to create fully responsive HTML page templates that are managed by **ethereum wallets** that own these **exclusive NFT's** templates.
 
@@ -46,12 +46,12 @@ The links below are available in the **demo** version and in the **full** versio
 | Theme 05 | Theme 06 | Theme 07 | Theme 08 |
 | :---: | :---: | :---: | :---: |
 | [![Theme 05](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-5.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/05/admin/?demo)  | [![Theme 06](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-6.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/06/admin/?demo) | [![Theme 07](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-7.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/07/admin/?demo)  | [![Theme 08](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-8.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/08/admin/?demo)
-| [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/05/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/06/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/07/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/08/admin/?demo) |
+| [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/05/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/06/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/07/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/08/admin/) |
 
 | Theme 09 | Theme 10 | Theme 11 | Theme 12 |
 | :---: | :---: | :---: | :---: |
 | [![Theme 09](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-9.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/09/admin/?demo)  | [![Theme 10](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-10.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/10/admin/?demo) | [![Theme 11](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-11.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/11/admin/?demo)  | [![Theme 12](https://startasystems.github.io/start-web3-pro/media/share/001/og-adm-image-12.jpg)](https://startasystems.github.io/start-web3-pro/001/theme/12/admin/?demo)
-| [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/09/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/10/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/11/admin/?demo) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/12/admin/?demo) |
+| [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/09/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/10/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/11/admin/) | [**FULL**](https://startasystems.github.io/start-web3-pro/001/theme/12/admin/) |
 
 ## Start[001] Demos
 

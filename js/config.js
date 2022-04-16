@@ -12,16 +12,15 @@
 *  ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║
 *  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝
 ===================================================================
-* Start[001] Website PRO | v1.0.0 | 2020-05-06T18:06:10.305Z
-=================================================================
-* Product Page: https://startasystems.github.io/start-website-pro/
-* Copyright 2020 | Starta Systems (https://startasystems.github.io/)
+* Start[001] NFT Hotsite PRO | v1.1.0 | 2022-04-15T20:18:42.487Z
+===================================================================
+* Copyright 2022 | Starta Systems (https://startasystems.github.io)
+* Product Page: https://startasystems.github.io/start-web3-pro/
 * Originally coded by @starta.architect
 =================================================================
 * The above copyright notice and this permission notice shall be
 * included in all copies or substantial portions of the Software.
 **/
-
 window.$config = {
     "subscribe-form": {
         error1: "Sorry, there was an error in your registration. Please try again or send an email to starta.systems@protonmail.com",
