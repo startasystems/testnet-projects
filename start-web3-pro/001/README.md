@@ -1,6 +1,6 @@
 # Starta Systems | Start[001] NFT Hotsite
 
-> NFT Hotsite & Application, Start[001], Version: 1.0.1 | PWA. This is our first fully responsive startup HTML pages, built on web3 with Ethereum, Javascript, Bootstrap 4+ Framework and css3.
+> NFT Hotsite & Application, Start[001], Version: 1.1.1 | PWA. This is our first fully responsive startup HTML pages, built on web3 with Ethereum, Javascript, Bootstrap 4+ Framework and css3.
 
 This project aims to create fully responsive HTML page templates that are managed by **ethereum wallets** that own these **exclusive NFT's** templates.
 
@@ -20,7 +20,7 @@ Only **NFT's owners** have access to the **full administrative system**, but all
 
 [![Contact](https://rinkeby.starta.systems/start-web3-pro/media/prints/print-4.jpg)](https://rinkeby.starta.systems/start-web3-pro/001/?from=github)
 
-## [Administrative System | v1.0.1](https://rinkeby.starta.systems/start-web3-pro/001/admin/?demo)
+## [Administrative System | v1.1.1](https://rinkeby.starta.systems/start-web3-pro/001/admin/?demo)
 
 [![Loading](https://rinkeby.starta.systems/start-web3-pro/media/prints/print-admin-1.jpg)](https://rinkeby.starta.systems/start-web3-pro/001/admin/?demo)
 
